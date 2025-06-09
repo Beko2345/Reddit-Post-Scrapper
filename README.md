@@ -37,7 +37,7 @@ Bu proje, belirli bir subreddit’teki ya da kullanıcıya ait Reddit gönderile
 
 3. Programı çalıştır:
    ```bash
-   python reddit_user_archiver.py
+   python reddit_post_scrapper.py
    ```
 
 ---
