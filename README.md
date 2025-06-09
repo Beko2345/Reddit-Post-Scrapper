@@ -37,7 +37,7 @@ Bu proje, belirli bir subreddit’teki ya da kullanıcıya ait Reddit gönderile
 
 3. Programı çalıştır:
    ```bash
-   python reddit_user_archiver.py
+   python reddit_post_scrapper.py
    ```
 
 ---
@@ -73,7 +73,7 @@ Bu bilgileri [https://www.reddit.com/prefs/apps](https://www.reddit.com/prefs/ap
 
 ## 🔎 Ek Araç: Reddit Post Arama Aracı (`post_arama_gui.py`)
 
-Bu araç, `reddit_user_archiver.py` ile indirilen `.txt` dosyaları içinde **anahtar kelimeyle metin araması** yapmanızı sağlar.
+Bu araç, `reddit_post_scrapper.py` ile indirilen `.txt` dosyaları içinde **anahtar kelimeyle metin araması** yapmanızı sağlar.
 
 ### 🧩 Özellikleri
 
