@@ -1,3 +1,5 @@
+<img width="747" height="975" alt="Image" src="https://github.com/user-attachments/assets/9f71eebc-5458-4012-96ac-e218a3f08e78" />
+
 # Reddit Arşivleyici (GUI'li Python Uygulaması)
 
 Bu proje, belirli bir subreddit’teki ya da kullanıcıya ait Reddit gönderilerini indirip organize bir şekilde arşivleyen gelişmiş bir **masaüstü uygulamasıdır.** `tkinter` GUI ile kullanıcı dostu bir arayüz sunar.
